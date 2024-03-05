@@ -1,1 +1,7 @@
-{}
+{
+  "testASuppr": {
+    "value": "1px",
+    "type": "sizing",
+    "description": "bonjour clara il serait bien de me supprimer"
+  }
+}
